@@ -19,17 +19,34 @@
 
 1. The vaccination rate is from gov.scot: [Link](https://www.gov.scot/publications/coronavirus-covid-19-daily-data-for-scotland/).
 
-2. The list of vaccination sites is accessible at gov.scot: [Link](https://www.gov.scot/publications/coronavirus-covid-19-update-on-vaccinations/). 
+2. The list of vaccination sites is accessible at gov.scot: [Link](https://www.gov.scot/publications/coronavirus-covid-19-update-on-vaccinations/). Updated on 5 Jan 2021.
 
-### North Ireland
+### Northern Ireland
 
 1. The list of vaccination sites (community pharmacies) is from Health and Social Care Northern Ireland (HSCNI): [Link](http://www.healthandcareni.net/pharmacy_rota/Covid_Vaccination_Pharmacies.html).
 
-2. The list of vaccinations sites (GP) is from HSCNI: [LINK](https://hscbusiness.hscni.net/services/1816.htm).
+2. The list of vaccinations sites (GP) is from HSCNI: [LINK](https://hscbusiness.hscni.net/services/1816.htm). Updated on 15 June 2021
 
 3. The vaccination rate is from HSCNI: [Link](https://covid-19.hscni.net/ni-covid-19-vaccinations-dashboard/).
 
----
+
+### Hong Kong
+
+1. Map of vaccination sites: [Link](https://www.map.gov.hk/gm/map/s/m/communityvaccinationservicesofcovid-19?lg=en).
+
+2. Vaccination sites (private doctors and clinics) can be downloaded at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/datasets?s=clinics). Updated on 15 June 2021. 
+
+3. Vaccination sites (general out-patient clinics) can be downloaded at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/view-dataset?uuid=b9ae4f0e-5834-431d-951a-67ae0e14b37d&sidx=0). Updated on 15 June 2021.
+
+4. Vaccination sites (Community vaccination centres) can be downloaed at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/view-dataset?uuid=103174d1-6060-4820-9b90-da1ecd744501&sidx=0). Updated on 1 May 2021.
+
+### Singapore
+
+1. The list of vaccination sites from gov.sg: [Link](https://www.vaccine.gov.sg/locations-vcs). Updated on 17 June 2021. 
+
+### Shenzhen 
+
+1. The list of vaccination sites: [Link](http://kb.southcn.com/content/2021-03/27/content_192260490.htm). Updated on 27 March 2021.
 
 ## Relevant work
 
@@ -41,6 +58,7 @@
 6. Luo, W. and Wang, F. (2003). ‘Measures of spatial accessibility to health care in a GIS environment: Synthesis and a case study in the Chicago region’. *Environment and Planning B: Planning and Design*, 30 (6), pp. 865–884. doi: 10.1068/b29120.
 7. Wang, F. (2018). ‘Inverted Two-Step Floating Catchment Area Method for Measuring Facility Crowdedness’. *Professional Geographer*, 70 (2), pp. 251–260. doi: 10.1080/00330124.2017.1365308.
 8. 
+
 
 
 
