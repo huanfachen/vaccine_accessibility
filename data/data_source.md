@@ -10,7 +10,6 @@
 
 3. The census and local authority population data can be downloaded at ONS: [Link](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/2011censuspopulationandhouseholdestimatesfortheunitedkingdom).
 
-
 ### Wales
 
 1. The list of vaccination sites from gov.wales: [Link](https://gov.wales/covid-19-vaccination-strategy).
@@ -43,7 +42,6 @@
 
 5. Northern Ireland shapefile by small areas is from NRSRA: [Link](https://www.nisra.gov.uk/publications/small-area-boundaries-gis-format).
 
-
 ### 2.Hong Kong
 
 1. Map of vaccination sites: [Link](https://www.map.gov.hk/gm/map/s/m/communityvaccinationservicesofcovid-19?lg=en).
@@ -68,18 +66,37 @@
 
 4. Singapore shapefile by planning area with 2016 Singapore resident population is from gov.sg: [Link](https://data.gov.sg/dataset/singapore-residents-by-planning-area-and-type-of-dwelling-june-2016?resource_id=171b6f54-0da5-4327-b32a-a4dfbad11e23).
 
-### Malaysia
+### 5.Malaysia
 
 1. The list of vaccination sites from gov.my: [link](https://www.vaksincovid.gov.my/en/ppv/).
 
+2. Malaysia boundaries by administrative district 0-2 level from HDX: [Link](https://data.humdata.org/dataset/malaysia-administrative-level-0-2-boundaries). 
 
-### India
+3. Malaysia population (2016-2018) by adminstrative district 0-2 from DOSM.gob.my: [Link](https://www.dosm.gov.my/v1/index.php?r=column/cone&menu_id=dC9JU2RhZk9HNmxQS3hTOStuMVVLdz09)
 
-1. The list of vaccination sites from CoWIN: [link](https://www.cowin.gov.in/home).
+4. Vaccination rate from covidvax:[link](https://covidvax.live/location/mys). Updated in real time. 
 
-### Chile
+
+
+### 6.Chile
 
 1. The list of vaccination sites from gob.cl: [Link](https://www.gob.cl/yomevacuno/vacunatorios/).
+
+2. Chile boundaries by communes from bcn.cl: [Link](https://www.bcn.cl/siit/mapas_vectoriales/index_html).
+
+### 7. Canada 
+
+1. The list of vaccination sites from Government of Canada: [Link](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html#a1).
+
+### 8. France
+
+1. The list of vaccination sites from data.gouv.fr: [Link](https://www.data.gouv.fr/en/datasets/lieux-de-vaccination-contre-la-covid-19/).
+
+2. France boundaries from European Environmental Agency:[Link](https://www.eea.europa.eu/data-and-maps/data/eea-reference-grids-2/gis-files/france-shapefile).
+
+### India?
+
+1. The list of vaccination sites from CoWIN: [link](https://www.cowin.gov.in/home).
 
 
 ## Relevant work
